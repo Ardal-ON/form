@@ -1,0 +1,14 @@
+form_name: "Suspension Form"
+role: "suspension"
+fields:
+  - name: "spring_rate"
+    label: "Spring Rate"
+    type: "number"
+    required: true
+  - name: "damper setting"
+    label: "damper setting"
+    type: "number"
+    required: true
+  - name: "notes"
+    label: "Notes"
+    type: "textarea"

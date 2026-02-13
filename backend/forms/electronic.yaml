@@ -1,0 +1,10 @@
+form_name: "Electronic Form"
+role: "electronic"
+fields:
+  - name: "controller_firmware"
+    label: "Controller Firmware"
+    type: "text"
+    required: true
+  - name: "notes"
+    label: "Notes"
+    type: "textarea"

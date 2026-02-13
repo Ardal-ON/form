@@ -1,0 +1,10 @@
+form_name: "DAQ Form"
+role: "DAQ"
+fields:
+  - name: "sampling_rate"
+    label: "Sampling Rate (Hz)"
+    type: "number"
+    required: true
+  - name: "notes"
+    label: "Notes"
+    type: "textarea"

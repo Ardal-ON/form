@@ -1,0 +1,10 @@
+form_name: "Chasis Form"
+role: "chasis"
+fields:
+  - name: "frame_material"
+    label: "Frame Material"
+    type: "text"
+    required: true
+  - name: "notes"
+    label: "Notes"
+    type: "textarea"

@@ -1,0 +1,10 @@
+form_name: "Chief Form"
+role: "Chief"
+fields:
+  - name: "status"
+    label: "Project Status"
+    type: "text"
+    required: true
+  - name: "notes"
+    label: "Notes"
+    type: "textarea"

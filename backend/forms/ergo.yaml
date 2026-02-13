@@ -1,0 +1,14 @@
+form_name: "Ergo Form"
+role: "ergo"
+fields:
+  - name: "seat_position"
+    label: "Seat Position"
+    type: "text"
+    required: true
+  - name: "brake line"
+    label: "Brake Line"
+    type: "text"
+    required: true
+  - name: "notes"
+    label: "Notes"
+    type: "textarea"
